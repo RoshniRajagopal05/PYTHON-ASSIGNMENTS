@@ -1,0 +1,13 @@
+Name,Email,Phone,Age,Department,Salary
+Anu,anu@gmail.com,9876543210,25,IT,35000
+Rahul,rahul@gmail.com,9876543211,30,HR,45000
+Meera,meera@gmail.com,9876543212,22,Finance,28000
+Arun,arun@gmail.com,9876543213,35,Sales,50000
+John,john@gmail.com,9876543214,17,IT,25000
+Priya,invalid-email,9876543215,28,HR,40000
+Kiran,kiran@gmail.com,12345,32,Finance,55000
+Neha,neha@gmail.com,9876543216,65,IT,45000
+Vijay,vijay@gmail.com,9876543217,40,Marketing,60000
+Sneha,sneha@gmail.com,9876543218,29,Sales,150000
+Anu,anu@gmail.com,9876543210,25,IT,35000
+,,9876543219,20,HR,20000

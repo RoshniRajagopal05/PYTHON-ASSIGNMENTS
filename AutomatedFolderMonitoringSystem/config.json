@@ -1,0 +1,10 @@
+
+{
+    "categories": {
+        "Documents": [".pdf", ".docx", ".txt"],
+        "Spreadsheets": [".xlsx", ".csv"],
+        "Images": [".jpg", ".jpeg", ".png"],
+        "Videos": [".mp4", ".mkv"],
+        "Audio": [".mp3", ".wav"]
+    }
+}

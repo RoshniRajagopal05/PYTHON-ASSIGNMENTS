@@ -1,0 +1,36 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Generated output
+output_images/
+empty_output/
+
+# Test data
+test_images/
+empty_test/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp

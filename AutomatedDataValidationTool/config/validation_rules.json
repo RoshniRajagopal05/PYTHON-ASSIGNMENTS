@@ -1,0 +1,33 @@
+{
+    "Name": {
+        "required": true
+    },
+    "Email": {
+        "required": true,
+        "type": "email"
+    },
+    "Phone": {
+        "required": true,
+        "type": "phone",
+        "pattern": "^\\+?[0-9]{10,15}$"
+    },
+    "Age": {
+        "required": true,
+        "type": "integer",
+        "min": 18,
+        "max": 60
+    },
+    "Department": {
+        "required": true,
+        "allowed_values": ["HR", "IT", "Finance", "Sales"]
+    },
+    "Salary": {
+        "required": true,
+        "type": "numeric",
+        "min": 10000,
+        "max": 100000
+    },
+    "duplicate_check": {
+        "columns": ["Name", "Email"]
+    }
+}

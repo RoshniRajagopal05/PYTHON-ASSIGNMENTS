@@ -1,0 +1,44 @@
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Excel Temporary Files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+
+# Generated Reports
+reports/*.xlsx
+reports/*.xls
+reports/*.xlsm
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Test and Coverage
+.coverage
+htmlcov/

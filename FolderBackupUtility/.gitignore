@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
+*.log
+
+# Generated backup archives
+backups/
+*.zip
+
+# Test-generated data (optional)
+# Uncomment if you don't want to commit test data
+# test_data/
+# empty_test/
+
+# Temporary files
+*.tmp
+*.bak
